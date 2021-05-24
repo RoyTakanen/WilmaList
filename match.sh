@@ -1,0 +1,1 @@
+cat ShodanExport.json | grep -E -o "Location: (https:\/\/(\w.*).inschool.fi\/)" > urls.txt
