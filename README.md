@@ -1,5 +1,7 @@
 # WilmaInstanssit
 
+**!ÄLÄ KÄYTÄ! KAIKKI INSTANSSIT SAAT WILMAN API:STA [http://starsoft.fi/wilmat/wilmat.json](http://starsoft.fi/wilmat/wilmat.json)**
+
 Kaikki Suomen wilma-instanssit.
 
 ## Kaikki instanssit
